@@ -702,8 +702,27 @@ footer .copyright {
   z-index: -9;
 }
 
-/* Start Media Query */
+/* About Page */
 
+#page-header.about-header {
+  background-image: url(img/about/banner.png);
+}
+
+#about-head {
+  display: flex;
+  align-items: center;
+}
+
+#about-head img {
+  width: 50%;
+  height: auto;
+}
+
+#about-head div {
+  padding-left: 40px;
+}
+
+/* Start Media Query */
 @media (max-width: 799px) {
   .section-p1 {
     padding: 40px 40px;
@@ -883,7 +902,7 @@ footer .copyright {
     width: 100%;
   }
 
-  /* BLog Page */
+  /* Blog Page */
   #blog {
     padding: 100px 20px 0 20px;
   }
