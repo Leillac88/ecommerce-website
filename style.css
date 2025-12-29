@@ -11,7 +11,6 @@ html {
 }
 
 /* Global Styles */
-
 h1 {
   font-size: 50px;
   line-height: 64px;
@@ -78,7 +77,6 @@ body {
 }
 
 /* Header Start */
-
 #header {
   display: flex;
   align-items: center;
@@ -138,7 +136,6 @@ body {
 }
 
 /* Home Page */
-
 #hero {
   background-image: url(img/hero4.png);
   height: 90vh;
@@ -534,7 +531,6 @@ footer .copyright {
 }
 
 /* Shop Page */
-
 #page-header {
   background-image: url(img/banner/b1.jpg);
   width: 100%;
@@ -571,7 +567,6 @@ footer .copyright {
 }
 
 /* Single Product */
-
 #prodetails {
   display: flex;
   margin-top: 20px;
@@ -633,7 +628,6 @@ footer .copyright {
 }
 
 /* Blog Page */
-
 #page-header.blog-header {
   background-image: url(img/banner/b19.jpg);
 }
@@ -703,7 +697,6 @@ footer .copyright {
 }
 
 /* About Page */
-
 #page-header.about-header {
   background-image: url(img/about/banner.png);
 }
@@ -739,7 +732,6 @@ footer .copyright {
 }
 
 /* Contact Page */
-
 #contact-details {
   display: flex;
   align-items: center;
@@ -849,7 +841,6 @@ footer .copyright {
 }
 
 /* Cart Page */
-
 #cart {
   overflow-x: auto;
 }
@@ -1172,7 +1163,6 @@ footer .copyright {
   }
 
    /* About Page */
-
    #about-head {
     flex-direction: column;
    }
